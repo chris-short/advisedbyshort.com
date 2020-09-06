@@ -1,0 +1,18 @@
+title = "Advised by Short"
+
+text = """
+Chris Short aims to provide consulting and advisory services to business interested in getting into the cloud native ecosystem of tooling.
+"""
+
+[[link]]
+    icon = "fab fa-github"
+    url = "https://github.com/chris-short"
+[[link]]
+    icon = "fab fa-twitter"
+    url = "https://twitter.com/ChrisShort"
+[[link]]
+    icon = "fab fa-linkedin"
+    url = "https://linkedin.com/in/thechrisshort"
+[[link]]
+    icon = "fas fa-envelope"
+    url = "mailto:chris@chrisshort.net"

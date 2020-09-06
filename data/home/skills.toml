@@ -1,0 +1,30 @@
+[[list]]
+    name = "Kubernetes"
+    icon = "/imgs/kubernetes.svg"
+    text = """
+        Having been a part of the cloud native community since 2016 and having extensively worked with Red Hat OpenShift for years, I possess significant knowledge about how Kubernetes works.
+    """
+[[list]]
+    name = "CNCF Ambassador"
+    icon = "/imgs/cncf-ambassador-stacked-color.svg"
+    text = """
+        Having been a CNCF Ambassador since 2017, I have a wealth of knowledge about not only Kubernetes, the tool itself, but the ecosystems, governance, and people around the projects. I understand how everything works so you don't have to.
+    """
+[[list]]
+    name = "Open Source Marketing"
+    icon = "/imgs/osi_symbol_0.png"
+    text = """
+        Having spent time cortibuting to the open source projects since the late 1990s, working in DevOps for over a decade, and marketing for two plus years now, I'm uniquely situated to provide guidance around how to market an open source project and the company around it for increased engagement and awareness.
+    """
+[[list]]
+    name = "Ansible"
+    icon = "/imgs/Ansible.svg"
+    text = """
+        Chris Short is a Red Hat Certified Specialist in Ansible Automation. If you have automation problems, Ansible could help you. I can provide some guidance here.
+    """
+[[list]]
+    name = "Linux"
+    icon = "/imgs/Tux.png"
+    text = """
+        Chris Short has spent over twenty years administering, maintaining, and managing Linux systems across the public and private sectors. In both air gapped and internet connected environments.
+    """

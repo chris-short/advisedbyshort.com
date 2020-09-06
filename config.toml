@@ -1,0 +1,25 @@
+baseURL = "https://advisedbyshort.com/"
+languageCode = "en-us"
+theme = "SimpleIntro"
+title = "Advised by Short"
+publishDir = "public"
+
+[params]
+    mainbg = "/imgs/background.jpg"
+    name = "Advised by Short"
+    mainTitle = "Advised by Short"
+    mainText = "Advisory and consulting services from one of the top names in Kubernetes and cloud native, Chris Short"
+
+[menus]
+    [[menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "#about"
+    [[menu.main]]
+        identifier = "skills"
+        name = "Skills"
+        url = "#skills"
+    [[menu.main]]
+        identifier = "projects"
+        name = "Projects"
+        url = "#projects"
