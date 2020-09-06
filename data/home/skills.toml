@@ -1,20 +1,20 @@
 [[list]]
-    name = "Kubernetes"
-    icon = "/imgs/kubernetes.svg"
-    text = """
-        A member of the cloud native community since 2016 and having extensively worked with Red Hat OpenShift for years, I possess significant knowledge about how Kubernetes works.
-    """
-[[list]]
     name = "CNCF Ambassador"
     icon = "/imgs/cncf-ambassador-stacked-color.svg"
     text = """
-        Being a CNCF Ambassador since 2017, I have a wealth of knowledge about not only Kubernetes, the tool itself, but the ecosystems, governance, and people around the projects. I understand how everything works so you don't have to.
+        Being a CNCF Ambassador since 2017, I have a wealth of knowledge about not only Kubernetes, the tool itself, but the ecosystems around it, governance of CNCF projects, and generally am connect to people around the projects. I understand how everything works inside CNCF so you don't have to.
     """
 [[list]]
     name = "Open Source Marketing"
     icon = "/imgs/osi_symbol_0.png"
     text = """
-        Cortibuting to the open source projects since the late 1990s, working in DevOps for over a decade, and marketing for two plus years now, I'm uniquely situated to provide guidance around how to market an open source project and the company around it for increased engagement and awareness.
+        Contributing to the open source projects since the late 1990s, working in DevOps for over a decade, and product and technical marketing for years now, I'm uniquely situated to provide guidance around how to authentically market an open source project and the company around it for increased engagement and awareness.
+    """
+[[list]]
+    name = "Kubernetes"
+    icon = "/imgs/kubernetes.svg"
+    text = """
+        A member of the cloud native community since 2016 and having extensively worked with Kubernetes and Red Hat OpenShift for years, I possess significant knowledge about how Kubernetes works.
     """
 [[list]]
     name = "Ansible"
