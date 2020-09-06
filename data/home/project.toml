@@ -13,37 +13,9 @@
         The weekly newsletters for all things Kubernetes. KubeWeekly is curated by Saiyam Pathak, L Körbes, Alison Dowdney, Chris Short, Craig Box, Daniel Oh, Kim McMahon and Michael Hausenblas
     """
 [[list]]
-    title = "rak8s"
-    url = "https://github.com/rak8s/rak8s"
-    image = "/imgs/rak8s.png"
+    title = "openshift.tv"
+    url = "https://openshift.tv"
+    image = "/imgs/openshift.tv.jpg"
     text = """
-        Stand up a Raspberry Pi based Kubernetes cluster with Ansible
-    """
-[[list]]
-    title = "devopsreadme.xyz"
-    url = "https://devopsreadme.xyz"
-    image = "https://picsum.photos/400/200"
-    text = """
-        What books 📚 to read to learn more about DevOps.
-    """
-[[list]]
-    title = "DevOps Newsletters"
-    url = "https://devopsnewsletters.com/"
-    image = "https://picsum.photos/400/200"
-    text = """
-        Continuous learning is a critical part of DevOps. Staying current is imperative. These are DevOps newsletters of note from several well regarded DevOps leaders.
-    """
-[[list]]
-    title = "Kubernetes Newsletters"
-    url = "https://kubenews.net/"
-    image = "https://picsum.photos/400/200"
-    text = """
-        Kubernetes, Cloud Native Computing Foundation, and adjacent News Sources
-    """
-[[list]]
-    title = "padbury.app"
-    url = "https://padbury.app/"
-    image = "https://picsum.photos/400/200"
-    text = """
-        An homage to Padbury Clock: A basic digital clock screensaver from Australian American designer Robert Padbury.
+        Experience live, unfiltered demos (with no safety nets), and meet Red Hatters, Red Hat® OpenShift® experts, and other special guests during our livestreams on Twitch, YouTube Live, and Facebook Live.
     """
