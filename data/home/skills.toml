@@ -6,9 +6,15 @@
     """
 [[list]]
     name = "Open Source Marketing"
-    icon = "/imgs/osi_symbol_0.png"
+    icon = "/imgs/OSI_Keyhole.svg"
     text = """
         Contributing to the open source projects since the late 1990s, working in DevOps for over a decade, and product and technical marketing for years now, I'm uniquely situated to provide guidance around how to authentically market an open source project and the company around it for increased engagement and awareness.
+    """
+[[list]]
+    name = "DevOps"
+    icon = "/imgs/devops.svg"
+    text = """
+        Call it DevOps, DevSecOps, or whatever you call it in your organization; chances are some data points that could point us towards tightening those feedback loops.
     """
 [[list]]
     name = "Kubernetes"
@@ -24,7 +30,7 @@
     """
 [[list]]
     name = "Linux"
-    icon = "/imgs/Tux.png"
+    icon = "/imgs/Tux.svg"
     text = """
         Chris Short has spent over twenty years administering, maintaining, and managing Linux systems across the public and private sectors. In both air gapped and internet connected environments.
     """
