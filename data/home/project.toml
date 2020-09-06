@@ -1,41 +1,48 @@
 [[list]]
     title = "DevOps'ish"
+    url = "https://devopsish.com"
     image = "/imgs/DevOpsish.png"
     text = """
         DevOps'ish is a weekly newsletter assembled by open source contributor, DevOps leader, and Cloud Native Computing Foundation (CNCF) Ambassador Chris Short.
     """
 [[list]]
     title = "KubeWeekly"
+    url = "http://kubeweekly.io/"
     image = "/imgs/kubeweekly.jpg"
     text = """
         The weekly newsletters for all things Kubernetes. KubeWeekly is curated by Saiyam Pathak, L Körbes, Alison Dowdney, Chris Short, Craig Box, Daniel Oh, Kim McMahon and Michael Hausenblas
     """
 [[list]]
     title = "rak8s"
+    url = "https://github.com/rak8s/rak8s"
     image = "/imgs/rak8s.png"
     text = """
         Stand up a Raspberry Pi based Kubernetes cluster with Ansible
     """
 [[list]]
     title = "devopsreadme.xyz"
+    url = "https://devopsreadme.xyz"
     image = "https://picsum.photos/400/200"
     text = """
         What books 📚 to read to learn more about DevOps.
     """
 [[list]]
     title = "DevOps Newsletters"
+    url = "https://devopsnewsletters.com/"
     image = "https://picsum.photos/400/200"
     text = """
         Continuous learning is a critical part of DevOps. Staying current is imperative. These are DevOps newsletters of note from several well regarded DevOps leaders.
     """
 [[list]]
     title = "Kubernetes Newsletters"
+    url = "https://kubenews.net/"
     image = "https://picsum.photos/400/200"
     text = """
         Kubernetes, Cloud Native Computing Foundation, and adjacent News Sources
     """
 [[list]]
     title = "padbury.app"
+    url = "https://padbury.app/"
     image = "https://picsum.photos/400/200"
     text = """
         An homage to Padbury Clock: A basic digital clock screensaver from Australian American designer Robert Padbury.
