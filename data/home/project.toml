@@ -17,5 +17,5 @@
     url = "https://www.accurics.com/"
     image = "/imgs/Accurics.png"
     text = """
-        I am working with Accurics to help drive exposure, advise on how to build their open communitiy, and managing open source projects at scale. The current activities revolve around Terrascan which has been completely rewritten from the ground up for cloud native environments using Go and Open Policy Agent.
+        I am working with Accurics to help drive exposure, advise on building their open community, and manage open source projects at scale. The current activities revolve around Terrascan, rewritten from the ground up for cloud native environments using Go and Open Policy Agent.
     """
