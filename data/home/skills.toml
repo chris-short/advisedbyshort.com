@@ -2,7 +2,7 @@
     name = "CNCF Ambassador"
     icon = "/imgs/cncf-ambassador-stacked-color.svg"
     text = """
-        Being a CNCF Ambassador since 2017, I have a wealth of knowledge about not only Kubernetes, the tool itself, but the ecosystems around it, governance of CNCF projects, and generally am connect to people around the projects. I understand how everything works inside CNCF so you don't have to.
+        Being a CNCF Ambassador since 2017, I have a wealth of knowledge about not only Kubernetes, the tool itself, but the ecosystems around it, governance of CNCF projects. Generally, I'm connected to people around CNCF projects. I understand how everything works inside CNCF, so you don't have to.
     """
 [[list]]
     name = "Open Source Marketing"
@@ -14,23 +14,23 @@
     name = "DevOps"
     icon = "/imgs/devops.svg"
     text = """
-        Call it DevOps, DevSecOps, or whatever you call it in your organization; chances are some data points that could point us towards tightening those feedback loops. Chris has worked in various industries and has seen many examples of digital transformation. The one that's right for your organization is the one that actually works for your organization.
+        Call it DevOps, DevSecOps, or whatever you call it in your organization; chances are some data points that could point us towards tightening those feedback loops. Chris has worked in various industries and has seen many examples of digital transformation. The one that's right for your organization is the one that works for your organization.
     """
 [[list]]
     name = "Kubernetes"
     icon = "/imgs/kubernetes.svg"
     text = """
-        A member of the cloud native community since 2016 and having extensively worked with Kubernetes and Red Hat OpenShift for years, I possess significant knowledge about how Kubernetes works.
+        A member of the Kubernetes community since 2016 and has extensively worked with Kubernetes and Red Hat OpenShift for years. I possess significant knowledge about how to engage the Kubernetes community.
     """
 [[list]]
     name = "Ansible"
     icon = "/imgs/Ansible.svg"
     text = """
-        Chris Short is a Red Hat Certified Specialist in Ansible Automation. If you have automation problems, Ansible could help you. I can provide some guidance here.
+        Chris Short is a Red Hat Certified Specialist in Ansible Automation. If you have automation problems, Ansible could help you. I can provide guidance here.
     """
 [[list]]
     name = "Linux"
     icon = "/imgs/Tux.svg"
     text = """
-        Chris Short has spent over twenty years administering, maintaining, and managing Linux systems across the public and private sectors. In both air gapped and internet connected environments.
+        Linux is the platform that changed the globe. Chris Short has spent over twenty years administering, maintaining, and managing Linux systems across the public and private sectors. In both air-gapped and internet-facing environments.
     """
