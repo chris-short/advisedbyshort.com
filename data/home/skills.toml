@@ -14,7 +14,7 @@
     name = "DevOps"
     icon = "/imgs/devops.svg"
     text = """
-        Call it DevOps, DevSecOps, or whatever you call it in your organization; chances are some data points that could point us towards tightening those feedback loops.
+        Call it DevOps, DevSecOps, or whatever you call it in your organization; chances are some data points that could point us towards tightening those feedback loops. Chris has worked in various industries and has seen many examples of digital transformation. The one that's right for your organization is the one that actually works for your organization.
     """
 [[list]]
     name = "Kubernetes"
