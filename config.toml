@@ -8,7 +8,7 @@ publishDir = "public"
     mainbg = "/imgs/background.jpg"
     name = "Advised by Short"
     mainTitle = "Advised by Short"
-    mainText = "Advisory and consulting services from one of the top names in Kubernetes and cloud native, Chris Short"
+    mainText = "Advisory and consulting services from one of the top names in Kubernetes, cloud native, and open source Chris Short"
 
 [menus]
     [[menu.main]]
