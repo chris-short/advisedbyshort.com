@@ -11,12 +11,24 @@ Technology exists to improve human existence.
 [[link]]
     icon = "fab fa-github"
     url = "https://github.com/chris-short"
+    urltitle = "Chris Short on GitHub"
 [[link]]
     icon = "fab fa-twitter"
     url = "https://twitter.com/ChrisShort"
+    urltitle = "Chris Short on Twitter"
 [[link]]
     icon = "fab fa-linkedin"
     url = "https://linkedin.com/in/thechrisshort"
+    urltitle = "Chris Short on LinkedIn"
+[[link]]
+    icon = "fas fa-blog"
+    url = "https://chrisshort.net"
+    urltitle = "Chris Short's Blog"
+[[link]]
+    icon = "far fa-newspaper"
+    url = "https://devopsish.com"
+    urltitle = "DevOps'ish: DevOps, Cloud Native, Hybrid Cloud, Open Source, industry news, and the 'ish between."
 [[link]]
     icon = "fas fa-envelope"
-    url = "mailto:chris@chrisshort.net"
+    url = "mailto:chris+advisory@chrisshort.net"
+    urltitle = "E-mail Chris Short"
