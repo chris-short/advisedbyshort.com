@@ -10,7 +10,7 @@
     url = "http://kubeweekly.io/"
     image = "/imgs/kubeweekly.jpg"
     text = """
-        The weekly newsletters for all things Kubernetes. KubeWeekly is curated by Saiyam Pathak, L Körbes, Alison Dowdney, Chris Short, Craig Box, Daniel Oh, Kim McMahon and Michael Hausenblas
+        The weekly newsletters for all things Kubernetes. KubeWeekly is curated by Saiyam Pathak, L Körbes, Alison Dowdney, Chris Short, Craig Box, Daniel Oh, Kim McMahon, Michael Hausenblas and Shilla Saebi
     """
 [[list]]
     title = "Accurics"
