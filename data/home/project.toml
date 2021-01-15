@@ -12,10 +12,4 @@
     text = """
         The weekly newsletters for all things Kubernetes. KubeWeekly is curated by Saiyam Pathak, L Körbes, Alison Dowdney, Chris Short, Craig Box, Daniel Oh, Kim McMahon, Michael Hausenblas and Shilla Saebi
     """
-[[list]]
-    title = "Accurics"
-    url = "https://www.accurics.com/"
-    image = "/imgs/Accurics.png"
-    text = """
-        I am working with Accurics to help drive exposure, advise on building their open community, and manage open source projects at scale. The current activities revolve around Terrascan, rewritten from the ground up for cloud native environments using Go and Open Policy Agent.
-    """
+
