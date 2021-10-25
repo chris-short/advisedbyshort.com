@@ -20,17 +20,17 @@
     name = "Kubernetes"
     icon = "/imgs/kubernetes.svg"
     text = """
-        A member of the Kubernetes community since 2016 and has extensively worked with Kubernetes and Red Hat OpenShift for years. I possess significant knowledge about how to engage the Kubernetes community.
+        A member of the Kubernetes community since 2016 and has extensively worked with Kubernetes, Red Hat OpenShift, and Amazon EKS for years. I possess significant knowledge about how to engage with and contribute to the Kubernetes community as well.
     """
 [[list]]
     name = "Ansible"
     icon = "/imgs/Ansible.svg"
     text = """
-        Chris Short is a Red Hat Certified Specialist in Ansible Automation. If you have automation problems, Ansible could help you. I can provide guidance here.
+        Chris Short has held a Red Hat Certified Specialist in Ansible Automation certification. If you have automation problems, Chris can help you. With decades of experience in the field, automating away toil is the right approach to distributed systems
     """
 [[list]]
     name = "Linux"
     icon = "/imgs/Tux.svg"
     text = """
-        Linux is the platform that changed the globe. Chris Short has spent over twenty years administering, maintaining, and managing Linux systems across the public and private sectors. In both air-gapped and internet-facing environments.
+        Linux is the platform that changed the globe. Chris Short has spent over twenty years administering, maintaining, and managing Linux systems across the public and private sectors. In both air-gapped and internet-facing environments. When Chris was actively maintaining Linux systems at scale he help a Red Hat Certified System Administration certification.
     """
